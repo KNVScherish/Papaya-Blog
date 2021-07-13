@@ -49,12 +49,12 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'Papaya Coffee Club',
-  description: 'Weightlifting and Coffee',
+  title: 'Where AW meet BM',
+  description: ',
   coverImage: 'img/blog-cover.png',
   logo: 'img/beach-coffee.jpg ',
   lang: 'en',
-  siteUrl: 'https://papaya.moe',
+  siteUrl: 'https://coconut.moe',
   facebook: 'https://www.facebook.com/ghost',
   twitter: 'https://twitter.com/tryghost',
   showSubscribe: true,
